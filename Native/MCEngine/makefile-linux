@@ -1,0 +1,3 @@
+
+mcengine.so:
+	gcc -shared -o mcengine.so -fPIC -Ofast -m64 mcengine.c
