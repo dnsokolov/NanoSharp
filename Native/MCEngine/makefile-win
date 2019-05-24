@@ -1,0 +1,3 @@
+
+mcengine.dll:
+	cl /Oi /Ot /Oy /Ob2 /GF /Gy /LD /TC mcengine.c /OUT:mcengine.dll
